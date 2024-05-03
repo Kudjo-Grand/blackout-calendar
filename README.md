@@ -7,7 +7,6 @@ Ideas of goals to track:
     - Worship
     - Reading
     - Doing something new
-    - Sex
     - Cooking
     - Running
     - Exercising
